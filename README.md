@@ -1,5 +1,3 @@
-
-
 <html>
   
   <body style="backgroundcolor:black;text:white">
@@ -11,40 +9,14 @@
   Having keen interest in front-end development with good knowledge of ReactJS, JavaScript, HTML 5, CSS3.
   I am a quick learner with a problem-solving attitude.</p>
   
-  <h3>Skills:
-  <ul><li>Languages:<ul><li>Java 1.8</li><li>JavaScript</li><li>C++</li></ul></li>
-	  <li>Database:<ul><li>MySQL</li><li>MongoDB</li></ul></li>
-	  <li>Web:<ul><li>ReactJS</li><li>JavaScript</li><li>HTML5</li><li>CSS3</li><li>Bootstap 4+</li></ul></li>
-	  <li>CI/CD:<ul><li>Docker</li><li>Git</li></ul></li>	
-    <li>Cloud:<ul><li>AWS</li></ul></li>
-	  <li>OS:<ul><li>Windows 10, 11</li><li>Linux (RHEL6,7)</li><li>AIX 7.1</li></ul></li></ul></h3>
+  <h6>Skills:
+   <p>Languages: Java, JavaScript, c++</p>
+   <p>Database: MySQL, MongoDB</p>
+   <p>Web: ReactJS,JavaScript,HTML5, CSS3, Bootstap</p>
    <ul><li>📫 How to reach me: ... </li>
    <ul><li>📩 : tomarpoornima52@gmail.com </li></ul></ul>
+   </h6>
+   
+  
    </body>
 </html>   
-
-     
-				
-				
-				
-      
-       
-	  
-       
-				
-						
-				
-      
-	  
-       
-								
-				
-      
-	  
-      
-   
-  
- 
-  
-   
-  

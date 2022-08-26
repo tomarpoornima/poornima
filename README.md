@@ -12,7 +12,6 @@
   I am a quick learner with a problem-solving attitude.</p>
   
   <h3>Skills:
-  <ul>Primary skills: Data Structure and algorithims, Java</ul>
   <ul><li>Languages:<ul><li>Java 1.8</li><li>JavaScript</li><li>C++</li></ul></li>
 	  <li>Database:<ul><li>MySQL</li><li>MongoDB</li></ul></li>
 	  <li>Web:<ul><li>ReactJS</li><li>JavaScript</li><li>HTML5</li><li>CSS3</li><li>Bootstap 4+</li></ul></li>
